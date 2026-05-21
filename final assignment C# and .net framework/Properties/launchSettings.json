@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "final assignment C# and .net framework": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

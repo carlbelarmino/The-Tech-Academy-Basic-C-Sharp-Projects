@@ -1,0 +1,4 @@
+C:\Users\carlb\OneDrive\Desktop\CARL'S PROJECT\final assignment C# and .net framework\obj\Debug\net10.0\final assignment C# and .net framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlb\OneDrive\Desktop\CARL'S PROJECT\final assignment C# and .net framework\obj\Debug\net10.0\final assignment C# and .net framework.AssemblyInfoInputs.cache
+C:\Users\carlb\OneDrive\Desktop\CARL'S PROJECT\final assignment C# and .net framework\obj\Debug\net10.0\final assignment C# and .net framework.AssemblyInfo.cs
+C:\Users\carlb\OneDrive\Desktop\CARL'S PROJECT\final assignment C# and .net framework\obj\Debug\net10.0\final assignment C# and .net framework.csproj.CoreCompileInputs.cache
