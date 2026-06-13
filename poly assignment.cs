@@ -14,14 +14,14 @@ namespace PolymorphismAssignment
 
         public void Quit()
         {
-            Console.Writeline($"{FirstName} {LastName} has officially quit the company.");
+            Console.WriteLine($"{FirstName} {LastName} has officially quit the company.");
         }
     }
     class Program
     {
         static void Main(string[] sender)
         {
-            IQuittable quittableEmployee= new Employee();
+            IQuittable emp= new Employee();
             {
                 Id=101,
                     FirstName="John",
