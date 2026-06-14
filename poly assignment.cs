@@ -21,7 +21,7 @@ namespace PolymorphismAssignment
     {
         static void Main(string[] sender)
         {
-            IQuittable emp= new Employee();
+            Employee emp= new Employee() { Id=101, FirstName="John",LastName="Doe"};IQuittable quittableEmployee = emp;quittableEmployee.Quit
             {
                 Id=101,
                     FirstName="John",
