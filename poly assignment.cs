@@ -19,15 +19,22 @@ namespace PolymorphismAssignment
     }
     class Program
     {
-        static void Main(string[] sender)
+        static void Main(string[] args) { 
+            //instantiate the employee object with data
+        }
         {
-            Employee emp= new Employee() { Id=101, FirstName="John",LastName="Doe"};IQuittable quittableEmployee = emp;quittableEmployee.Quit
+            Employee emp = new Employee() { Id = 101, FirstName = "John", LastName = "Doe" };
+        //Use Polymorphism to assign the employee to the IQuittable interface
+            
+            
+            IQuittable quittableEmployee = emp;
+        //Call the Quit method on the interface object
             {
                 Id=101,
                     FirstName="John",
                     LastName="Doe"
             };
-            quittableEmployee.Quit();
+            quittableEmployee.Quit();//Pause the console Console.ReadLine();}
             Console.ReadLine();
         }
     }
