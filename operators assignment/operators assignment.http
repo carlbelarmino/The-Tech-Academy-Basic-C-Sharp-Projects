@@ -1,0 +1,6 @@
+@operators_assignment_HostAddress = http://localhost:5066
+
+GET {{operators_assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
